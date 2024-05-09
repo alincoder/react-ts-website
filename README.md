@@ -4,4 +4,4 @@ This template is an website project architecture，use react + typescript techno
 
 it is easy for you to quickly start your project with react + typescript technology.
 
-This is the website architecture, if you want the server architecture, you can see my another repocity [koa+ts+server](https://gitee.com/alin18/koa-ts-server)
+This is the website architecture, if you want the server architecture, you can see my another repocity [koa+ts+server](https://github.com/alincoder/koa-ts-server)
