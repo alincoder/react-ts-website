@@ -1,0 +1,14 @@
+.home-main {
+    padding: 0 var(--main-padding);
+}
+
+.card-list {
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-list .card {
+    margin-right: 30px;
+    margin-bottom: 30px;
+}

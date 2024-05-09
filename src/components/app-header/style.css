@@ -1,0 +1,25 @@
+.header-wrap {
+    padding: 0 var(--main-padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid #ddd;
+}
+
+.logo {
+    font-weight: bold;
+}
+
+.logo a {
+    color: black;
+}
+
+.h-username {
+    cursor: pointer;
+}
+
+.app-h-sign-in {
+    cursor: pointer;
+    text-align: right;
+}
